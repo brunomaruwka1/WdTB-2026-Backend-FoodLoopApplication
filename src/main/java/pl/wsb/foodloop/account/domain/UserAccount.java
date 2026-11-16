@@ -1,4 +1,4 @@
-package pl.wsb.FoodLoopApplication.account.domain;
+package pl.wsb.foodloop.account.domain;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
